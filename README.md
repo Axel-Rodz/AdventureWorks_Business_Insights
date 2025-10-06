@@ -26,7 +26,8 @@ The data model follows a **star schema** for optimized reporting and DAX efficie
 - **Fact Tables:** Sales Data, Returns Data  
 - **Dimension Tables:** Calendar, Customer, Product, Subcategory, Category, Territory  
 
-![Data Model](Data Model/AdventureWorks Data Model.png)
+![Data Model](<Data Model/AdventureWorks Data Model.png>)
+
 
 ---
 
