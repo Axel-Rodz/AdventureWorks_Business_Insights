@@ -22,7 +22,7 @@ The dataset was imported from **CSV files**, cleaned and transformed using **Pow
 ---
 
 ## 🧩 Data Model  
-The data model follows a **star schema** for optimized reporting and DAX efficiency:  
+The data model follows a star schema design for optimized reporting and DAX performance, with a snowflake extension for Product Subcategory and Category dimensions:  
 - **Fact Tables:** Sales Data, Returns Data  
 - **Dimension Tables:** Calendar, Customer, Product, Subcategory, Category, Territory  
 
