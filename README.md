@@ -82,6 +82,6 @@ The data model follows a star schema design for optimized reporting and DAX perf
 
 ## 👋 Author  
 **Alex Rodriguez**  
-📧 [Email: alexadanrdz78@gmail.com]  
+📧 [Email:](alexadanrdz78@gmail.com)
 💼 [LinkedIn Profile](https://www.linkedin.com/)
 
